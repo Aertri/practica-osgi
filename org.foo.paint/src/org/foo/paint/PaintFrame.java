@@ -6,9 +6,9 @@ import java.util.HashMap;
 import java.util.Map;
 import javax.swing.*;
 import org.foo.shape.SimpleShape;
-import org.foo.shape.impl.Circle;
-import org.foo.shape.impl.Square;
-import org.foo.shape.impl.Triangle;
+import org.foo.shape.circle.Circle;
+import org.foo.shape.square.Square;
+import org.foo.shape.triangle.Triangle;
 
 /**
  * This class represents the main application class, which is a JFrame subclass

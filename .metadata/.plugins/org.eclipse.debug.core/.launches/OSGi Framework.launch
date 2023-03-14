@@ -33,8 +33,7 @@
     <setAttribute key="selected_workspace_bundles">
         <setEntry value="org.foo.paint@default:default"/>
         <setEntry value="org.foo.shape.circle@default:default"/>
-        <setEntry value="org.foo.shape.square@default:default"/>
-        <setEntry value="org.foo.shape.triangle@default:default"/>
+        <setEntry value="org.foo.shape.impl@default:default"/>
         <setEntry value="org.foo.shape@default:default"/>
     </setAttribute>
     <booleanAttribute key="show_selected_only" value="true"/>

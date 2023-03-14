@@ -1,8 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Triangle
+Bundle-Name: Triangle Implementation
 Bundle-SymbolicName: org.foo.shape.triangle
-Bundle-Version: 1.0.0.qualifier
-Automatic-Module-Name: org.foo.shape.Triangle
-Bundle-RequiredExecutionEnvironment: JavaSE-17
-Import-Package: org.foo.shape
+Bundle-Version: 2.0.0
+Automatic-Module-Name: org.foo.shape.triangle
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.swing, org.foo.shape; version="2.0.0"
+Export-Package: org.foo.shape.triangle; version="2.0.0"

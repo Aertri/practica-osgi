@@ -1,4 +1,4 @@
-package org.foo.shape.impl;
+package org.foo.shape.triangle;
 
 import java.awt.*;
 import java.awt.geom.GeneralPath;

@@ -1,5 +1,7 @@
 INDEX VERSION 1.131+/home/im4s/workspace-osgi/osgi-in-action/.metadata/.plugins/org.eclipse.jdt.core
+1448410751.index
 1865797976.index
 4265217927.index
 1273992801.index
 2698754979.index
+1325462447.index

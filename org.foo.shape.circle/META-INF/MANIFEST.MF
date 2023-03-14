@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Square Implementation
-Bundle-SymbolicName: org.foo.shape.square
+Bundle-Name: Circle Implementation
+Bundle-SymbolicName: org.foo.shape.circle
 Bundle-Version: 2.0.0
-Automatic-Module-Name: org.foo.shape.square
+Automatic-Module-Name: org.foo.shape.circle
 Bundle-RequiredExecutionEnvironment: JavaSE-11
 Import-Package: javax.swing, org.foo.shape; version="2.0.0"
-Export-Package: org.foo.shape.square; version="2.0.0"
+Export-Package: org.foo.shape.circle;version="2.0.0"
