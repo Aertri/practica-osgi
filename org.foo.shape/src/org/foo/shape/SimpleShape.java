@@ -2,6 +2,8 @@ package org.foo.shape;
 
 import java.awt.Graphics2D;
 import java.awt.Point;
+//import javax.swing.Icon;
+
 import javax.swing.Icon;
 
 /**

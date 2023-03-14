@@ -1,13 +1,12 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Paint
+Bundle-Name: Simple Paint Program
 Bundle-SymbolicName: org.foo.paint
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 2.0.0
 Automatic-Module-Name: org.foo.paint
-Bundle-RequiredExecutionEnvironment: JavaSE-17
-Import-Package: org.foo.shape,
- org.foo.shape.circle,
- org.foo.shape.square,
- org.foo.shape.triangle,
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.swing, 
+ org.foo.shape,
+ org.foo.shape.impl; version="2.0.0",
  org.osgi.framework;version="1.10.0"
 Bundle-Activator: org.foo.paint.PaintActivator 

@@ -1,8 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Shape
+Bundle-Name: Paint API
 Bundle-SymbolicName: org.foo.shape
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 2.0.0.qualifier
 Automatic-Module-Name: org.foo.shape
-Bundle-RequiredExecutionEnvironment: JavaSE-17
-Export-Package: org.foo.shape
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.swing
+Export-Package: org.foo.shape; version="2.0.0"

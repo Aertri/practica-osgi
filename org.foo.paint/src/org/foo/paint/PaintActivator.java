@@ -6,9 +6,9 @@ import java.awt.event.WindowEvent;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
-import org.foo.shape.circle.Circle;
-import org.foo.shape.square.Square;
-import org.foo.shape.triangle.Triangle;
+import org.foo.shape.impl.Circle;
+import org.foo.shape.impl.Square;
+import org.foo.shape.impl.Triangle;
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
 import org.osgi.framework.BundleException;
