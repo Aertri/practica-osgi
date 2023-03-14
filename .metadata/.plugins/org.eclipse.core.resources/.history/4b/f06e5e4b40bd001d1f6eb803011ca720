@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Paint
+Bundle-SymbolicName: org.foo.paint
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.foo.paint
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Import-Package: org.foo.shape,
+ org.foo.shape.circle,
+ org.foo.shape.square

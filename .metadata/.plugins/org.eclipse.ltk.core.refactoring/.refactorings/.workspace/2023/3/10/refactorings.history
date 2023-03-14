@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;oeg.foo.shape.square&apos; to &apos;org.foo.shape.square&apos;" description="Rename resource &apos;oeg.foo.shape.square&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/oeg.foo.shape.square" name="org.foo.shape.square" stamp="1678231764738" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;org.foo.shape.Triangle&apos; to &apos;org.foo.shape.triangle&apos;" description="Rename resource &apos;org.foo.shape.Triangle&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/org.foo.shape.Triangle" name="org.foo.shape.triangle" stamp="1678231896403" updateReferences="true"/>
+</session>

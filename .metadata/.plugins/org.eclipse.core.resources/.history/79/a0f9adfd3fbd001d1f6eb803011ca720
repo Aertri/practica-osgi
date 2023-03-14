@@ -1,0 +1,5 @@
+package org.foo.shape.square;
+
+public class Square {
+
+}

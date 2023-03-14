@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Shape
+Bundle-SymbolicName: org.foo.shape
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: org.foo.shape
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: org.foo.shape

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.foo.shape.Triangle&apos; to &apos;org.foo.shape.triangle&apos;&#x0A;- Original project: &apos;org.foo.shape.triangle&apos;&#x0A;- Original element: &apos;org.foo.shape.triangle/src/org.foo.shape.Triangle&apos;&#x0A;- Renamed element: &apos;org.foo.shape.triangle/src/org.foo.shape.triangle&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.foo.shape.Triangle&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.foo.shape.Triangle" name="org.foo.shape.triangle" qualified="false" references="true" stamp="1678231908830" textual="false" version="1.0"/>
+</session>
